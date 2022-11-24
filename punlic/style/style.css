@@ -1,11 +1,23 @@
+body{
+    padding: 1px 300px;
+}
+
+h2{
+    margin-bottom: 70px;
+}
 #un div:first-child{
     display: flex;
 }
 
-#deux div:first-child{
-    display: flex;
+#deux .d{
+    display:  flex;
 }
 
-#trois div:first-child{
+#trois .t{
     display: flex;
+}
+.butt{
+    margin-top: 50px;
+    background-color: blueviolet;
+    color: white;
 }
